@@ -11,6 +11,8 @@ Test repository for FYP
 1. Install Git on your PC 
  (See link here https://git-scm.com/downloads)
 2. Make a Github account
+3. Make an SSH
+   1. Go to account settings (top right emblem)
 
 
  
