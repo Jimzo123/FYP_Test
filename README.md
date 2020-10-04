@@ -20,7 +20,9 @@ Test repository for FYP
       * No need for a password in this case ( be very careful with SSH keys in general)
    5. Assuming that you don't have any existing SSH keys you can now add the SSH key to you Github account (see point 3 at the bottom of the page for a guide)
 
-##Using Git
+## Using Git
+1. Open Git bash
+2. Change directory to project location using cd e.g. for me I would have cd Documents/fyp/FYP_Test/
 
 
 ## Git Commands
