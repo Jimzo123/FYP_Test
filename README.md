@@ -22,7 +22,10 @@ Test repository for FYP
    
 ## Cloning the R project
 1. Create an appropriate location to host project e.g. C:\Users\Jimmy\Document\fyp
-2. 
+2. Open Gitbash
+3. Go to the project on Github, see the green code button and hit the drop down
+4. Click SSH and the copy emblem
+5. Type git clone <project URL> eg '''git@github.com:Jimzo123/FYP_Test.git'''
 
 ## Using Git
 1. Open Git bash
