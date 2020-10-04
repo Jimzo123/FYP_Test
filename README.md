@@ -12,7 +12,8 @@ Test repository for FYP
  (See link here https://git-scm.com/downloads)
 2. Make a Github account
 3. Make an SSH
-   1. Go to account settings (top right emblem)
+   1. Go to account settings (top right emblem + settings)
+   2. Click on SSH
 
 
  
