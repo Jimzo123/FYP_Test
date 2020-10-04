@@ -8,8 +8,10 @@ Test repository for FYP
 4. Grace McSweeney
 
 ## Getting Started
-1 Install Git on your PC
-  See blah blah
+1. Install Git on your PC 
+ (See link here https://git-scm.com/downloads)
+2. Make a Github account
+
 
  
 ## Git Commands
