@@ -25,7 +25,7 @@ Test repository for FYP
 2. Open Gitbash
 3. Go to the project on Github, see the green code button and hit the drop down
 4. Click SSH and the copy emblem
-5. Type git clone <project URL> eg '''git@github.com:Jimzo123/FYP_Test.git'''
+5. Type git clone project URL (copyied part from step 4) eg git clone git@github.com:Jimzo123/FYP_Test.git
 
 ## Using Git
 1. Open Git bash
