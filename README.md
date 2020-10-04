@@ -19,4 +19,5 @@ Test repository for FYP
 3. git diff
 4. git commit
 5. git push
+6. git add
 
