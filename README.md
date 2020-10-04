@@ -18,6 +18,11 @@ Test repository for FYP
    4. Click on "Generating a new SSH key and adding it to the ssh-agent" and follow the steps provided
       * No need for a password in this case (be very careful with SSH keys in general)
    5. Assuming that you don't have any existing SSH keys you can now add the SSH key to you Github account (see point 3 at the bottom of the page for a guide)
+   6. Send on your Github accounts so you can be added to the project
+   
+## Cloning the R project
+1. Create an appropriate location to host project e.g. C:\Users\Jimmy\Document\fyp
+2. 
 
 ## Using Git
 1. Open Git bash
