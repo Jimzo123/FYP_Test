@@ -5,7 +5,7 @@ Test repository for FYP
 1. Tommy Cornally
 2. Jimmy Costello
 3. Conor Lucey
-4. Grace MacSweeney
+4. Grace McSweeney
 
 ## Getting Started
 1 Install Git on your PC
