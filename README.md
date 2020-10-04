@@ -13,7 +13,10 @@ Test repository for FYP
 2. Make a Github account
 3. Make an SSH
    1. Go to account settings (top right emblem + settings)
-   2. Click on SSH
+   2. Click on SSH + GpG keys
+   3. See the link "Check out our guide to generating SSH keys or troubleshoot common SSH Problems" and click on "generating SSH keys" 
+   4. Click on "Generating a new SSH key and adding it to the ssh-agent" and follow the steps provided
+      * Useful notes
 
 
  
