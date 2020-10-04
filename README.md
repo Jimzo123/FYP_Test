@@ -9,4 +9,14 @@ Test repository for FYP
 
 ## Getting Started
 1 Install Git on your PC
+  See blah blah
+
+ 
+## Git Commands
+
+1. git close
+2. git status
+3. git diff
+4. git commit
+5. git push
 
