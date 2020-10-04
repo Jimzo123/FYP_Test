@@ -30,7 +30,7 @@ Test repository for FYP
 ## Using Git
 1. Open Git bash
 2. Change directory to project location using cd e.g. for me I would have cd Documents/fyp/
-
+3. Use Git commands (listed below)
 
 ## Git Commands
 
