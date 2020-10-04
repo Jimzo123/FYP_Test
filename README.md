@@ -16,8 +16,7 @@ Test repository for FYP
    2. Click on SSH + GPG keys
    3. See the link "Check out our guide to generating SSH keys or troubleshoot common SSH Problems" and click on "generating SSH keys" 
    4. Click on "Generating a new SSH key and adding it to the ssh-agent" and follow the steps provided
-      * Choose a sensible location like an fyp folder in your documents e.g. C:\Users\Jimmy\Documents\fyp
-      * No need for a password in this case ( be very careful with SSH keys in general)
+      * No need for a password in this case (be very careful with SSH keys in general)
    5. Assuming that you don't have any existing SSH keys you can now add the SSH key to you Github account (see point 3 at the bottom of the page for a guide)
 
 ## Using Git
